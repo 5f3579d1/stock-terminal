@@ -1,0 +1,17 @@
+{
+  "name": "stock",
+  "version": "1.0.0",
+  "description": "stock in terminal",
+  "main": "stock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "gbk": "^0.1.0",
+    "request": "^2.67.0",
+    "terminal-kit": "^0.22.7"
+  }
+}
